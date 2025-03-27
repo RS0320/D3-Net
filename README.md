@@ -1,2 +1,2 @@
-#title:DC-DINO: Enhanced DINO-based Classification of Surface Micro-Defects on Large-Aperture Optics Using Multi-Axis Channel and Spatial Attention
+#title:Dynamic Defect Detection in Multifaceted Automotive Seat Surfaces: A D3-Net Approach
 #journal:The Visual Computer
